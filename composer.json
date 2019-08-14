@@ -1,0 +1,17 @@
+{
+    "name": "OpenMageModuleFostering/Prerender",
+    "type": "magento-module",
+    "license": "Academic-Free-License-(AFL-3.0)",
+    "homepage": "",
+    "description": "Extension enabling Google Chrome Prerender functionality on your Magento 
+site.",
+    "authors": [
+    {
+        "name": "Laurent Clouet",
+        "email": "laurent35240@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
